@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Seu carro está sendo tomado? Fale com um advogado agora.",
+  title: "QuitaDoc — Seu carro está sendo tomado? Fale com um advogado agora.",
   description:
     "Defesa jurídica especializada em busca e apreensão de veículos em todo o Brasil. Atendimento urgente, sem burocracia.",
 };

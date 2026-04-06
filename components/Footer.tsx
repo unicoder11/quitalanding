@@ -20,7 +20,7 @@ export default function Footer() {
             </svg>
           </div>
           <span className="text-slate-400 font-semibold">
-            Defesa de Veículo BR
+            QuitaDoc
           </span>
         </div>
 

@@ -34,7 +34,7 @@ export default function NavBar() {
               </svg>
             </div>
             <span className="font-bold text-base tracking-tight">
-              Defesa de Veículo BR
+              QuitaDoc
             </span>
           </div>
           <Link
